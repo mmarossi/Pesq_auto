@@ -1,2 +1,2 @@
 # Pesq_auto
-Análise de notas atribuídas aos protótipos para lançamento de um automóvel
+Análise das notas atribuídas pelos consumidores para Imagem, Preço e Utilitário para escolha de protótipo para lançamento de automóvel.
